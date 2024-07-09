@@ -14,7 +14,7 @@ If you want to know more about the Google Gemini API, you can check out the offi
 - Easy-to-use CLI with `typer` for command-line options.
 
 # Help Command
-![Help Command](/Architecture/Project_Help.png)
+![Help Command](Project_Help.png)
 
 # Installation
 1. Clone the repository:
