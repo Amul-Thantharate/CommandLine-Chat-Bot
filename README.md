@@ -50,3 +50,8 @@ This command line chat bot uses the Google Gemini API to generate responses to u
 - Amul Thantharate
 - LinkedIn: [Amul Thantharate](https://www.linkedin.com/in/amul-thantharate/)
 - GitHub: [Amul Thantharate](https://www.github.com/Amul-Thantharate)
+
+# Licence 
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](GNU Affero General Public License v3.0) file for details.
