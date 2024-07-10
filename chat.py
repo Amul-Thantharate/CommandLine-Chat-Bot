@@ -18,9 +18,9 @@ def interactive_chat(
     """Interactive CLI tool to chat with Google Gemini-1.5-flash model."""
 
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("models/gemini-1.5-flash")
+    model = genai.GenerativeModel("models/gemini-1.5-pro")
     typer.echo(
-        "Starting interactive chat with Google Gemini-1.5-flash model. Type 'exit' to end the session."
+        "Starting interactive chat with Google Gemini-1.5-pro model. Type 'exit' to end the session."
     )
     while True:
         user_input = input(Fore.GREEN + "You: ")
